@@ -1,0 +1,107 @@
+verbs:
+  - infinitive: ser / ir (Al pretérito indefinido)
+    1s: fui
+    2s: fuiste
+    3s: fue
+    1p: fuimos
+    2p: fuisteis
+    3p: fueron
+  - infinitive: estar (Al pretérito indefinido)
+    1s: estuve
+    2s: estuviste
+    3s: estuvo
+    1p: estuvimos
+    2p: estuvisteis
+    3p: estuvieron
+  - infinitive: tener (Al pretérito indefinido)
+    1s: tuve
+    2s: tuviste
+    3s: tuvo
+    1p: tuvimos
+    2p: tuvisteis
+    3p: tuvieron
+  - infinitive: dar (Al pretérito indefinido)
+    1s: di
+    2s: diste
+    3s: dio
+    1p: dimos
+    2p: disteis
+    3p: dieron
+  - infinitive: decir (Al pretérito indefinido)
+    1s: dije
+    2s: dijiste
+    3s: dijo
+    1p: dijimos
+    2p: dijisteis
+    3p: dijeron
+  - infinitive: hacer (Al pretérito indefinido)
+    1s: hice
+    2s: hiciste
+    3s: hizo
+    1p: hicimos
+    2p: hicisteis
+    3p: hicieron
+  - infinitive: poder (Al pretérito indefinido)
+    1s: pude
+    2s: pudiste
+    3s: pudo
+    1p: pudimos
+    2p: pudisteis
+    3p: pudieron
+  - infinitive: poner (Al pretérito indefinido)
+    1s: puse
+    2s: pusiste
+    3s: puso
+    1p: pusimos
+    2p: pusisteis
+    3p: pusieron
+  - infinitive: querer (Al pretérito indefinido)
+    1s: quise
+    2s: quisiste
+    3s: quiso
+    1p: quisimos
+    2p: quisisteis
+    3p: quisieron
+  - infinitive: saber (Al pretérito indefinido)
+    1s: supe
+    2s: supiste
+    3s: supo
+    1p: supimos
+    2p: supisteis
+    3p: supieron
+  - infinitive: venir (Al pretérito indefinido)
+    1s: vine
+    2s: viniste
+    3s: vino
+    1p: vinimos
+    2p: vinisteis
+    3p: vinieron
+  - infinitive: conducir (Al pretérito indefinido)
+    1s: conduje
+    2s: condujiste
+    3s: condujo
+    1p: condujimos
+    2p: condujisteis
+    3p: condujeron
+
+  - infinitive: ser (Al imperfecto)
+    1s: era
+    2s: eras
+    3s: era
+    1p: éramos
+    2p: erais
+    3p: eran
+  - infinitive: ir (Al imperfecto)
+    1s: iba
+    2s: ibas
+    3s: iba
+    1p: íbamos
+    2p: ibais
+    3p: iban
+  - infinitive: ver (Al imperfecto)
+    1s: veía
+    2s: veías
+    3s: veía
+    1p: veíamos
+    2p: veíais
+    3p: veían
